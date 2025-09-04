@@ -1,0 +1,1026 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6" pages="2">
+  <diagram name="Context" id="_9sYAVw25cJosVUbi6CD">
+    <mxGraphModel dx="2182" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-0" />
+        <mxCell id="L9i87zjhX_zS5PnHygd9-1" parent="L9i87zjhX_zS5PnHygd9-0" />
+        <object placeholders="1" c4Name="Поставщик ресурсов ЖКХ" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="1292" y="1120" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Поставщик ресурсов ЖКХ" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="1252" y="1145" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="ZY496zaJ5d0AY3bM3sjp-0" target="L9i87zjhX_zS5PnHygd9-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="810" />
+              <mxPoint x="1080" y="1260" />
+            </Array>
+            <mxPoint x="1410" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Поставщик ресурсов ЖКХ" c4Type="Software System" c4Description="." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-28">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="1212" y="1165" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Платёжная система" c4Type="Software System" c4Description="Провайдер онлайн-платежей" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-29">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="1180" y="1335" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="ZY496zaJ5d0AY3bM3sjp-0" target="L9i87zjhX_zS5PnHygd9-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="810" />
+              <mxPoint x="1080" y="1395" />
+            </Array>
+            <mxPoint x="1410" y="640" as="sourcePoint" />
+            <mxPoint x="1720" y="664.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" target="ZY496zaJ5d0AY3bM3sjp-0" source="L9i87zjhX_zS5PnHygd9-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="470" as="targetPoint" />
+            <mxPoint x="770" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="770" y="280" />
+              <mxPoint x="771" y="280" />
+              <mxPoint x="771" y="520" />
+              <mxPoint x="504" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="PropDevelopment" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-62">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="-20" y="340" width="1040" height="910" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="L9i87zjhX_zS5PnHygd9-66" target="ZY496zaJ5d0AY3bM3sjp-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-148.76" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-100" y="970" />
+              <mxPoint x="-100" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Бухгалтер" c4Type="Person" c4Description="Ведёт бухгалтерский учёт" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-66">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="-535.76" y="840" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Менеджер" c4Type="Person" c4Description="Работает с клиентами и объектами недвижимости, администрирует онлайн-сделки" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-67">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="-535.76" y="404.5" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="L9i87zjhX_zS5PnHygd9-67" target="ZY496zaJ5d0AY3bM3sjp-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="544.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="530" />
+              <mxPoint x="-40" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="L9i87zjhX_zS5PnHygd9-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="227" y="737" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-350" y="737" />
+              <mxPoint x="-350" y="737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Бизнес-аналитик" c4Type="Person" c4Description="Оптимизирует процессы и развивает прикладные бизнес-системы. Администрирует системы" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-88">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="-535.76" y="622" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" target="ZY496zaJ5d0AY3bM3sjp-0" source="L9i87zjhX_zS5PnHygd9-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="270" as="sourcePoint" />
+            <mxPoint x="240.090909090909" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="520" />
+              <mxPoint x="504" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-90" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+          <mxGeometry x="200" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-91" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+          <mxGeometry x="730" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-92" value="Firewall" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+          <mxGeometry x="270" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-93" value="Firewall" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+          <mxGeometry x="820" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Аналитик BI" c4Type="Person" c4Description="Анализирует данные и готовит отчётность" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-96">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="-535.76" y="1060" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="L9i87zjhX_zS5PnHygd9-96" target="ZY496zaJ5d0AY3bM3sjp-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-8.759999999999991" y="1221" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="1190" />
+              <mxPoint x="-40" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Поставщик ресурсов ЖКХ" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-98">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="1182" y="1190" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Государственные регистрационные органы" c4Type="Software System" c4Description="Отвечают за регистрационные действия с объектами недвижимости" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-105">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="340" y="1350" width="338" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="L9i87zjhX_zS5PnHygd9-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="ZY496zaJ5d0AY3bM3sjp-0" target="L9i87zjhX_zS5PnHygd9-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="1140" />
+            </Array>
+            <mxPoint x="330" y="610" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Клиент" c4Type="Person" c4Description="Клиент" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-108">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="140" y="80" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Собственник" c4Type="Person" c4Description="Клиент" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="L9i87zjhX_zS5PnHygd9-109">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="670" y="80" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="PropDevelopment" c4Type="Software System" c4Description="" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="ZY496zaJ5d0AY3bM3sjp-0">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=24;" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="180" y="650" width="647" height="210" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Интеллектуальный домофон" c4Type="Software System" c4Description="Включает функции классического видеодомофона. &#xa;Также есть возможность распознавать пользователей по биометрии." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="ZY496zaJ5d0AY3bM3sjp-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="1202" y="480" width="340" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Интеллектуальный шлагбаум" c4Type="Software System" c4Description="Классическое управления шлагбаумом.&#xa;Распознавание номера автомобилей и автоматический доступ." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="ZY496zaJ5d0AY3bM3sjp-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+            <mxGeometry x="1204" y="630" width="338" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="ZY496zaJ5d0AY3bM3sjp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="ZY496zaJ5d0AY3bM3sjp-0" target="ZY496zaJ5d0AY3bM3sjp-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="690" />
+              <mxPoint x="950" y="690" />
+            </Array>
+            <mxPoint x="1070" y="1000" as="sourcePoint" />
+            <mxPoint x="1423" y="1635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZY496zaJ5d0AY3bM3sjp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="ZY496zaJ5d0AY3bM3sjp-0" target="ZY496zaJ5d0AY3bM3sjp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="690" />
+              <mxPoint x="1080" y="540" />
+            </Array>
+            <mxPoint x="1040" y="820" as="sourcePoint" />
+            <mxPoint x="1417" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZY496zaJ5d0AY3bM3sjp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="L9i87zjhX_zS5PnHygd9-109" target="ZY496zaJ5d0AY3bM3sjp-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="200" />
+              <mxPoint x="970" y="200" />
+            </Array>
+            <mxPoint x="960" y="240" as="sourcePoint" />
+            <mxPoint x="1332.2499999999995" y="200.05882352941194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZY496zaJ5d0AY3bM3sjp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="ZY496zaJ5d0AY3bM3sjp-16" target="ZY496zaJ5d0AY3bM3sjp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1372" y="239.5" as="sourcePoint" />
+            <mxPoint x="1802" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZY496zaJ5d0AY3bM3sjp-14" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.clickhouse;" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+          <mxGeometry x="1559" y="172.3" width="60" height="68.63" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY496zaJ5d0AY3bM3sjp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="ZY496zaJ5d0AY3bM3sjp-14" target="ZY496zaJ5d0AY3bM3sjp-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1589" y="690" />
+            </Array>
+            <mxPoint x="1589" y="223" as="sourcePoint" />
+            <mxPoint x="1370" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZY496zaJ5d0AY3bM3sjp-16" value="Intercom" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.house;" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+          <mxGeometry x="1320.5" y="149" width="103" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="ZY496zaJ5d0AY3bM3sjp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L9i87zjhX_zS5PnHygd9-1" source="ZY496zaJ5d0AY3bM3sjp-14" target="L9i87zjhX_zS5PnHygd9-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1589" y="110" />
+            </Array>
+            <mxPoint x="1190" y="90" as="sourcePoint" />
+            <mxPoint x="1591" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZY496zaJ5d0AY3bM3sjp-18" value="Barrier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L9i87zjhX_zS5PnHygd9-1">
+          <mxGeometry x="1559" y="242" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Container" id="AA9cZ-glA_Fp__WyKTjR">
+    <mxGraphModel dx="3574" dy="1317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2170" y="920" width="780" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-107" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="1570" width="700" height="540" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Поставщик ресурсов ЖКХ" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-108">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="3502" y="275" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Поставщик ресурсов ЖКХ" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-109">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="3462" y="300" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-110" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1310" width="420" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-111" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-5" y="350" width="910" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-112" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1246" y="350" width="780" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-166" target="nFB4tpNnGNIT1_HhN5Ei-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-114" value="[REST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-113" connectable="0" vertex="1">
+          <mxGeometry x="-0.087" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="crm-db" c4Type="Container" c4Technology="MSSQL" c4Description="База данных системы CRM" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-115">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="330" y="1056" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-118" target="nFB4tpNnGNIT1_HhN5Ei-168" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-117" value="Аутентификация&amp;nbsp;&lt;div&gt;менеджеров&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-116" connectable="0" vertex="1">
+          <mxGeometry x="0.233" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="client-crm-app" c4Type="Container" c4Technology="e.g. SpringBoot, ElasticSearch,Container: Dynamics CRM" c4Description="Система управления клиентскими данными" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-118">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="330" y="894" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-121" target="nFB4tpNnGNIT1_HhN5Ei-168" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1690" y="840" />
+              <mxPoint x="1500" y="840" />
+              <mxPoint x="1500" y="960" />
+              <mxPoint x="1170" y="960" />
+              <mxPoint x="1170" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-120" value="Аутентификация&amp;nbsp;&lt;div&gt;менеджеров&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-119" connectable="0" vertex="1">
+          <mxGeometry x="0.3218" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="CRM" c4Type="Container" c4Technology="Container: Kotlin, Spring Boot" c4Description="Система управления данными собственников" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-121">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="1696" y="680" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="crm-tenant-db" c4Type="Container" c4Technology="PostgreSQL" c4Description="База данных CRM по собственникам" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-122">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="1695" y="860" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-118" target="nFB4tpNnGNIT1_HhN5Ei-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-124" value="[JDBC]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-123" connectable="0" vertex="1">
+          <mxGeometry x="-0.2713" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-121" target="nFB4tpNnGNIT1_HhN5Ei-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-126" value="&lt;div&gt;[JDBC]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-125" connectable="0" vertex="1">
+          <mxGeometry x="-0.0327" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.366;exitY=0.981;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-166" target="nFB4tpNnGNIT1_HhN5Ei-118" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="540" />
+              <mxPoint x="300" y="540" />
+              <mxPoint x="300" y="950" />
+            </Array>
+            <mxPoint x="300" y="650" as="sourcePoint" />
+            <mxPoint x="300" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-128" value="&lt;div&gt;Регистрация клиента&lt;/div&gt;Карточка клиента&lt;div&gt;Профиль клиента&lt;/div&gt;&lt;div&gt;[REST]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-127" connectable="0" vertex="1">
+          <mxGeometry x="0.5831" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-92" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-181" target="nFB4tpNnGNIT1_HhN5Ei-132" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1225.9200000000005" y="489.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-130" value="[REST, WS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-129" connectable="0" vertex="1">
+          <mxGeometry x="-0.2095" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=gap;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-132" target="nFB4tpNnGNIT1_HhN5Ei-203" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1450" y="540" />
+              <mxPoint x="3210" y="540" />
+              <mxPoint x="3210" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="tenant-core-app" c4Type="Container" c4Technology="Container: Kotlin, SpringBoot" c4Description="Приложение для предоставления услуг собственникам" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-132">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="1256" y="550" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Поставщик ресурсов ЖКХ" c4Type="Software System" c4Description="." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-133">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="3422" y="320" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Платёжная система" c4Type="Software System" c4Description="Провайдер онлайн-платежей" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-134">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="3390" y="490" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=gap;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-132" target="nFB4tpNnGNIT1_HhN5Ei-134" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1450" y="540" />
+            </Array>
+            <mxPoint x="1137" y="624.9999999999998" as="sourcePoint" />
+            <mxPoint x="1777" y="664.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-132" target="nFB4tpNnGNIT1_HhN5Ei-121" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1586" y="650" />
+              <mxPoint x="1586" y="730" />
+            </Array>
+            <mxPoint x="1696" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-137" value="Получение клиентских данных&lt;div&gt;[REST]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-136" connectable="0" vertex="1">
+          <mxGeometry x="-0.3216" y="2" relative="1" as="geometry">
+            <mxPoint x="13" y="48" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="tenant-core-db" c4Type="Container" c4Technology="PostgreSQL" c4Description="База данных услуг ЖКХ по собственникам" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-138">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="1256" y="750" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-132" target="nFB4tpNnGNIT1_HhN5Ei-138" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-140" value="[JDBC]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-139" connectable="0" vertex="1">
+          <mxGeometry x="-0.3556" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Хранилище данных" c4Type="Container" c4Technology="Greenplum" c4Description="Единое хранилище данных для всех систем компании" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-141">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="605" y="1380" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="DWH Хранилище" c4Type="Container" c4Technology="S3" c4Description="Физическое хранилище данных DWH" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-142">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="605" y="1610" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-166" target="nFB4tpNnGNIT1_HhN5Ei-149" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="510" />
+              <mxPoint x="130" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-144" value="Получить данные по объектам&lt;div&gt;недвижимости&lt;/div&gt;&lt;div&gt;[REST]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-143" connectable="0" vertex="1">
+          <mxGeometry x="-0.2933" y="2" relative="1" as="geometry">
+            <mxPoint x="-70" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-147" target="nFB4tpNnGNIT1_HhN5Ei-148" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-146" value="[JDBC]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-145" connectable="0" vertex="1">
+          <mxGeometry x="0.2629" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="client-mart-app" c4Type="Container" c4Technology="Container: Kotlin, SpringBoot" c4Description="Приложение для:&#xa;- предоставления информации об объектах недвижимости,&#xa;- проведения онлайн-сделок" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-147">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="330" y="550" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="client-mart-db" c4Type="Container" c4Technology="PostgreSQL" c4Description="База данных для хранения информации об объектах недвижимости и сделкам по ним" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-148">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="330" y="750" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="client-mart-estate-app" c4Type="Container" c4Technology="Container: Kotlin, SpringBoot" c4Description="Приложение для управления информацией об объектах недвижимости" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-149">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="10" y="550" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-152" target="nFB4tpNnGNIT1_HhN5Ei-141" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-151" value="&lt;div&gt;Передача сырых данных&lt;/div&gt;[CDC]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-150" connectable="0" vertex="1">
+          <mxGeometry x="-0.6156" y="2" relative="1" as="geometry">
+            <mxPoint y="-49" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="client-mart-estate-db" c4Type="Container" c4Technology="PostgreSQL" c4Description="База данных объектов недвижимости" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-152">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="10" y="750" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-149" target="nFB4tpNnGNIT1_HhN5Ei-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-154" value="[JDBC]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-153" connectable="0" vertex="1">
+          <mxGeometry x="-0.3867" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-115" target="nFB4tpNnGNIT1_HhN5Ei-141" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-156" value="&lt;div&gt;Передача сырых данных&lt;/div&gt;[CDC]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-155" connectable="0" vertex="1">
+          <mxGeometry x="-0.4022" y="-8" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-148" target="nFB4tpNnGNIT1_HhN5Ei-141" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="830" as="sourcePoint" />
+            <mxPoint x="705" y="1470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="810" />
+              <mxPoint x="590" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-158" value="&lt;div&gt;Передача сырых данных&lt;/div&gt;[CDC]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-157" connectable="0" vertex="1">
+          <mxGeometry x="0.4614" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" y="-56" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-138" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1347" y="910" />
+              <mxPoint x="1110" y="910" />
+              <mxPoint x="1110" y="1420" />
+            </Array>
+            <mxPoint x="845" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-160" value="&lt;div&gt;Передача сырых данных&lt;/div&gt;[CDC]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-159" connectable="0" vertex="1">
+          <mxGeometry x="0.1919" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-122" target="nFB4tpNnGNIT1_HhN5Ei-141" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1730" y="1020" />
+              <mxPoint x="1227" y="1020" />
+              <mxPoint x="1227" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-162" value="&lt;div&gt;Передача сырых данных&lt;/div&gt;[CDC]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-161" connectable="0" vertex="1">
+          <mxGeometry x="-0.3918" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="nFB4tpNnGNIT1_HhN5Ei-181" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1225.9200000000005" y="370" as="targetPoint" />
+            <mxPoint x="1596" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-141" target="nFB4tpNnGNIT1_HhN5Ei-142" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-166" target="nFB4tpNnGNIT1_HhN5Ei-207" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="520" />
+              <mxPoint x="780" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Витрина продаж" c4Type="Container" c4Technology="JavaScript, React" c4Description="Витрина для подбора и бронирования объектов недвижимости" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-166">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="330" y="370" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="PropDevelopment" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-167">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="-420" y="340" width="3460" height="1860" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Active Directory" c4Type="Container" c4Technology="MS Active directory" c4Description="Служба каталогов, которая обслуживает финансовые сервисы" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-168">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="-320" y="1239" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Active Directory" c4Type="Container" c4Technology="MS Active directory" c4Description="Служба каталогов, которая обслуживает прикладные бизнес-системы и системы обработки данных" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-169">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="30" y="1920" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-171" target="nFB4tpNnGNIT1_HhN5Ei-187" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Бухгалтер" c4Type="Person" c4Description="Ведёт бухгалтерский учёт" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-171">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="-870" y="1590" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Менеджер" c4Type="Person" c4Description="Работает с клиентами и объектами недвижимости, администрирует онлайн-сделки" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-172">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="-870" y="790" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="auth-service-1" c4Type="Container" c4Technology="Keycloak" c4Description="Сервис аутентификации покупателей" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-173">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="940" y="550" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-166" target="nFB4tpNnGNIT1_HhN5Ei-173" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="565" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-175" value="Регистрация&lt;div&gt;Аутентификация&lt;/div&gt;&lt;div&gt;[REST]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-174" connectable="0" vertex="1">
+          <mxGeometry x="0.2782" relative="1" as="geometry">
+            <mxPoint x="134" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="auth-db-1" c4Type="Container" c4Technology="PostgreSQL" c4Description="База данных сервиса аутентификации покупателей" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-176">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="940" y="750" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-173" target="nFB4tpNnGNIT1_HhN5Ei-176" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.005;exitY=0.33;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-181" target="nFB4tpNnGNIT1_HhN5Ei-173" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="535" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=gap;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-181" target="nFB4tpNnGNIT1_HhN5Ei-121" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1596" y="520" />
+              <mxPoint x="1816" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-180" value="[REST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-179" connectable="0" vertex="1">
+          <mxGeometry x="-0.3582" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Витрина сервисов для собственников" c4Type="Container" c4Technology="Mobile app(iOS, Android)" c4Description="Мобильные приложения для собственников" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-181">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="1476" y="370" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="auth-service-1" c4Type="Container" c4Technology="Keycloak" c4Description="Сервис аутентификации покупателей." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-182">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="-300" y="1620" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="auth-db-1" c4Type="Container" c4Technology="PostgreSQL" c4Description="База данных сервиса аутентификации покупателей" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-183">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="-300" y="1810" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-182" target="nFB4tpNnGNIT1_HhN5Ei-183" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-187" target="nFB4tpNnGNIT1_HhN5Ei-169" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-186" value="Аутентификация" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-185" connectable="0" vertex="1">
+          <mxGeometry x="0.2659" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="accountant-service-1" c4Type="Container" c4Technology="Keycloak" c4Description="Система бухгалтерского учёта" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-187">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="-300" y="1620" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="auth-db-1" c4Type="Container" c4Technology="PostgreSQL" c4Description="База данных сервиса аутентификации покупателей" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-188">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="-300" y="1810" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-172" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-420" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-670" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-141" target="nFB4tpNnGNIT1_HhN5Ei-168" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="1520" />
+              <mxPoint x="-10" y="1520" />
+              <mxPoint x="-10" y="1299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-191" value="Аутентификация&amp;nbsp;&lt;div&gt;бизнес-аналитика&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-190" connectable="0" vertex="1">
+          <mxGeometry x="0.1545" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-193" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-420" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Бизнес-аналитик" c4Type="Person" c4Description="Оптимизирует процессы и развивает прикладные бизнес-системы. Администрирует системы" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-193">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="-870" y="1075" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="nFB4tpNnGNIT1_HhN5Ei-166" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="220" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-195" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="410" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-196" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="1556" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-197" value="Firewall" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-198" value="Firewall" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1646" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-199" value="&lt;b&gt;Группа сервисов&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;ЖКУ&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1816" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-200" value="&lt;b&gt;Группа сервисов для клиентов&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="350" width="100" height="105" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Аналитик BI" c4Type="Person" c4Description="Анализирует данные и готовит отчётность" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-201">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="3130" y="1980" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-201" target="nFB4tpNnGNIT1_HhN5Ei-141" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="2110" />
+              <mxPoint x="1000" y="1492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Поставщик ресурсов ЖКХ" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-203">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="3392" y="345" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-118" target="nFB4tpNnGNIT1_HhN5Ei-147" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="890" as="sourcePoint" />
+            <mxPoint x="740" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="954" />
+              <mxPoint x="610" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-205" value="Публикация&amp;nbsp;&lt;div&gt;каталога объектов&lt;div&gt;[Kafka]&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-204" connectable="0" vertex="1">
+          <mxGeometry x="0.1891" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="-41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-207" target="nFB4tpNnGNIT1_HhN5Ei-208" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="client-tour-app" c4Type="Container" c4Technology="Container: Kotlin, SpringBoot" c4Description="Приложение для проведения 3D-тура по объекту недвижимости (онлайн-тур)" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-207">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="650" y="550" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="client-tour-db" c4Type="Container" c4Technology="PostgreSQL" c4Description="База данных проведения онлайн-тура" label="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-208">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="650" y="750" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-118" target="nFB4tpNnGNIT1_HhN5Ei-207" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="954" />
+              <mxPoint x="610" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Государственные регистрационные органы" c4Type="Software System" c4Description="Отвечают за регистрационные действия с объектами недвижимости" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-210">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="-880" y="610" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-147" target="nFB4tpNnGNIT1_HhN5Ei-210" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="610" />
+              <mxPoint x="320" y="680" />
+              <mxPoint x="-140" y="680" />
+              <mxPoint x="-140" y="670" />
+              <mxPoint x="-610" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFB4tpNnGNIT1_HhN5Ei-212" value="СМЭВ&lt;div&gt;[SOAP]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nFB4tpNnGNIT1_HhN5Ei-211" connectable="0" vertex="1">
+          <mxGeometry x="0.1438" y="2" relative="1" as="geometry">
+            <mxPoint x="50" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Клиент" c4Type="Person" c4Description="Клиент" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-213">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="350" y="40" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Собственник" c4Type="Person" c4Description="Клиент" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nFB4tpNnGNIT1_HhN5Ei-214">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="1496" y="30" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#009900,#009900);strokeWidth=3;" parent="1" source="3K2iHIKX0mDFN2Cvkrmi-1" target="3K2iHIKX0mDFN2Cvkrmi-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3142.000000000001" y="826" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-27" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3K2iHIKX0mDFN2Cvkrmi-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.1665" y="4" relative="1" as="geometry">
+            <mxPoint x="4" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Интеллектуальный домофон" c4Type="Software System" c4Description="Включает функции классического видеодомофона. &#xa;Также есть возможность распознавать пользователей по биометрии." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="3K2iHIKX0mDFN2Cvkrmi-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=light-dark(#009900,#009900);metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];strokeWidth=4;" parent="1" vertex="1">
+            <mxGeometry x="3392" y="766" width="340" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Интеллектуальный шлагбаум" c4Type="Software System" c4Description="Классическое управления шлагбаумом.&#xa;Распознавание номера автомобилей и автоматический доступ." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="3K2iHIKX0mDFN2Cvkrmi-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=light-dark(#009900,#009900);metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];strokeWidth=4;" parent="1" vertex="1">
+            <mxGeometry x="3394" y="936" width="338" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="tenant-autos" c4Type="Service" c4Technology="Kotlin, Spring Boot" c4Description="Система управления авто собственников" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="3K2iHIKX0mDFN2Cvkrmi-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=light-dark(#009900,#009900);metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];strokeWidth=4;" parent="1" vertex="1">
+            <mxGeometry x="2655" y="1330" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="tenant_autos" c4Type="Database" c4Technology="PostgreSQL" c4Description="База данных автомобилей собственников" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="3K2iHIKX0mDFN2Cvkrmi-5">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=light-dark(#009900,#009900);metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;strokeWidth=4;" parent="1" vertex="1">
+            <mxGeometry x="2655" y="1510" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=light-dark(#009900,#009900);" parent="1" source="3K2iHIKX0mDFN2Cvkrmi-4" target="3K2iHIKX0mDFN2Cvkrmi-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-7" value="&lt;div&gt;[JDBC]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3K2iHIKX0mDFN2Cvkrmi-6" connectable="0" vertex="1">
+          <mxGeometry x="-0.0327" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="tenant-biometrics" c4Type="Service" c4Technology="Kotlin, Spring Boot" c4Description="Система управления биометрией собственников" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="3K2iHIKX0mDFN2Cvkrmi-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=light-dark(#009900,#009900);metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];strokeWidth=4;" parent="1" vertex="1">
+            <mxGeometry x="2270" y="1330" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="tenant_biometrics" c4Type="Database" c4Technology="PostgreSQL" c4Description="База данных биометрии собственников" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="3K2iHIKX0mDFN2Cvkrmi-9">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=light-dark(#009900,#009900);metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;strokeWidth=4;" parent="1" vertex="1">
+            <mxGeometry x="2270" y="1510" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=light-dark(#009900,#009900);" parent="1" source="3K2iHIKX0mDFN2Cvkrmi-8" target="3K2iHIKX0mDFN2Cvkrmi-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-11" value="&lt;div&gt;[JDBC]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3K2iHIKX0mDFN2Cvkrmi-10" connectable="0" vertex="1">
+          <mxGeometry x="-0.0327" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#009900,#009900);strokeWidth=3;" parent="1" source="3K2iHIKX0mDFN2Cvkrmi-12" target="3K2iHIKX0mDFN2Cvkrmi-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2570" y="1309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#009900,#009900);strokeWidth=3;" parent="1" source="3K2iHIKX0mDFN2Cvkrmi-12" target="3K2iHIKX0mDFN2Cvkrmi-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="tenant-gateway" c4Type="Container" c4Technology="Container: Kotlin, Spring Boot" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="3K2iHIKX0mDFN2Cvkrmi-12">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=light-dark(#009900,#009900);metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];strokeWidth=4;" parent="1" vertex="1">
+            <mxGeometry x="2450" y="1049" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Защищенный сегмент" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="3K2iHIKX0mDFN2Cvkrmi-17">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="2240" y="1280" width="300" height="400" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Защищенный сегмент" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="3K2iHIKX0mDFN2Cvkrmi-18">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="2610" y="1280" width="300" height="400" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#009900,#009900);strokeWidth=3;" parent="1" source="3K2iHIKX0mDFN2Cvkrmi-2" target="3K2iHIKX0mDFN2Cvkrmi-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3412" y="920" as="sourcePoint" />
+            <mxPoint x="2590" y="1143" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2570" y="996" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-29" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3K2iHIKX0mDFN2Cvkrmi-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.2911" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=gap;strokeColor=light-dark(#009900,#009900);strokeWidth=3;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-132" target="3K2iHIKX0mDFN2Cvkrmi-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3080" y="590" />
+              <mxPoint x="3080" y="800" />
+            </Array>
+            <mxPoint x="1454" y="550" as="sourcePoint" />
+            <mxPoint x="3394" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-26" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3K2iHIKX0mDFN2Cvkrmi-23" vertex="1" connectable="0">
+          <mxGeometry x="0.9197" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=gap;strokeColor=light-dark(#009900,#009900);strokeWidth=3;" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-132" target="3K2iHIKX0mDFN2Cvkrmi-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3080" y="590" />
+              <mxPoint x="3080" y="970" />
+            </Array>
+            <mxPoint x="1450" y="580" as="sourcePoint" />
+            <mxPoint x="3392" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-25" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3K2iHIKX0mDFN2Cvkrmi-24" vertex="1" connectable="0">
+          <mxGeometry x="0.7912" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#009900,#009900);strokeWidth=3;" parent="1" source="3K2iHIKX0mDFN2Cvkrmi-12" target="nFB4tpNnGNIT1_HhN5Ei-173" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3644" y="1000" as="sourcePoint" />
+            <mxPoint x="1550" y="1480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2070" y="1109" />
+              <mxPoint x="2070" y="1230" />
+              <mxPoint x="1210" y="1230" />
+              <mxPoint x="1210" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K2iHIKX0mDFN2Cvkrmi-33" value="Аутентификация" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3K2iHIKX0mDFN2Cvkrmi-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.2911" y="-1" relative="1" as="geometry">
+            <mxPoint x="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zf5djEHjTKMSJL6mAr5i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=light-dark(#009900,#009900);" parent="1" source="nFB4tpNnGNIT1_HhN5Ei-214" target="zf5djEHjTKMSJL6mAr5i-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2200" y="190" />
+              <mxPoint x="2200" y="190" />
+            </Array>
+            <mxPoint x="3360" y="190" as="sourcePoint" />
+            <mxPoint x="3822.25" y="190.05882352941194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zf5djEHjTKMSJL6mAr5i-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=light-dark(#009900,#009900);" parent="1" source="zf5djEHjTKMSJL6mAr5i-5" target="3K2iHIKX0mDFN2Cvkrmi-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3862" y="826" />
+            </Array>
+            <mxPoint x="3862" y="229.5" as="sourcePoint" />
+            <mxPoint x="3860" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zf5djEHjTKMSJL6mAr5i-3" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=light-dark(#009900,#009900);shape=mxgraph.alibaba_cloud.clickhouse;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="4049" y="162.29999999999995" width="60" height="68.63" as="geometry" />
+        </mxCell>
+        <mxCell id="zf5djEHjTKMSJL6mAr5i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=light-dark(#009900,#009900);" parent="1" source="zf5djEHjTKMSJL6mAr5i-3" target="3K2iHIKX0mDFN2Cvkrmi-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4079" y="996" />
+            </Array>
+            <mxPoint x="4079" y="213" as="sourcePoint" />
+            <mxPoint x="4032" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zf5djEHjTKMSJL6mAr5i-5" value="Intercom" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=light-dark(#009900,#009900);fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.house;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="3810.5" y="139" width="103" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="zf5djEHjTKMSJL6mAr5i-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=light-dark(#009900,#009900);" parent="1" source="zf5djEHjTKMSJL6mAr5i-3" target="nFB4tpNnGNIT1_HhN5Ei-214" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4079" y="100" />
+            </Array>
+            <mxPoint x="3680" y="80" as="sourcePoint" />
+            <mxPoint x="3360" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

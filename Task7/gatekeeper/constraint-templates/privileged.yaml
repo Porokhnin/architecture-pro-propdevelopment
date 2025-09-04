@@ -1,0 +1,23 @@
+apiVersion: templates.gatekeeper.sh/v1beta1
+kind: ConstraintTemplate
+metadata:
+  name: privilegedpodsconstraint
+spec:
+  crd:
+    spec:
+      names:
+        kind: PrivilegedPodsConstraint
+  targets:
+    - target: admission.k8s.gatekeeper.sh
+      rego: |
+        package privilegedpodsconstraint
+
+        ir := input.request
+
+        violation[{"msg": msg}] {
+          ir.kind.kind == "Pod"
+          ir.operation == "CREATE"
+          ir.namespace == ["audit-zone"]
+          ir.object.spec.securityContext.privileged == true
+          msg := "Privileged pods are not allowed!"
+        }

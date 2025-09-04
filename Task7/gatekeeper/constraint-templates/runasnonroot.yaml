@@ -1,0 +1,22 @@
+apiVersion: templates.gatekeeper.sh/v1beta1
+kind: ConstraintTemplate
+metadata:
+  name: runasrootconstraint
+spec:
+  crd:
+    spec:
+      names:
+        kind: RunAsRootConstraint
+  targets:
+    - target: admission.k8s.gatekeeper.sh
+      rego: |
+        package runasrootconstraint
+
+        ir := input.request
+
+        violation[{"msg": msg}] {
+          ir.namespace == ["audit-zone"]
+          ir.object.spec.securityContext.runAsUser == 0
+          ir.object.spec.securityContext.readOnlyRootFilesystem == true
+          msg := "Run as root are not allowed!"
+        }
