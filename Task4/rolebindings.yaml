@@ -1,0 +1,49 @@
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: clever-home-viewer-binding
+  namespace: clever-home
+subjects:
+- kind: ServiceAccount
+  name: clever-home-developer
+roleRef:
+  kind: Role
+  name: clever-home-viewer
+---  
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: clever-home-admin-binding
+  namespace: clever-home
+subjects:
+- kind: ServiceAccount
+  name: clever-home-teamlead
+roleRef:
+  kind: Role
+  name: clever-home-admin
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: cluster-pods-viewer-binding
+subjects:
+- kind: ServiceAccount
+  name: support-l2
+  namespace: clever-home
+roleRef:
+  kind: ClusterRole
+  name: cluster-pods-viewer
+  apiGroup: rbac.authorization.k8s.io
+--- 
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: cluster-devops-admin-binding
+subjects:
+- kind: ServiceAccount
+  name: devops
+  namespace: clever-home
+roleRef:
+  kind: ClusterRole
+  name: cluster-devops-admin
+  apiGroup: rbac.authorization.k8s.io
